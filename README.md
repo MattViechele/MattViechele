@@ -1,15 +1,12 @@
 ### Hi everyone, I'm Mateus! 🙋
 
-
-  - 🌱 Estudando Typescript
-  - 😄 Pronouns: ele/dele
-
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattViechele)](https://github.com/anuraghazr/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattViechele)](https://github.com/anuraghazra/github-readme-stats)
+- 🏫 I'm a student of Systems Development and Analysis at Fatec Americana university
+- 📕 I'm currently studying React with Typescript
 
 
+## 
 
+### 👨‍💻 Skills
 
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -25,8 +22,17 @@
 
 ## 
 
+  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattViechele)](https://github.com/anuraghazr/github-readme-stats) -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattViechele&show_icons=true&theme=transparent)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattViechele)](https://github.com/anuraghazra/github-readme-stats)
+
+## 
+
 <div>
+
+  ### 📩 Contact me
+
  
-  <!-- <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+  <!-- <a href="https://instagram.com/mateusdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/mateus-viechele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
